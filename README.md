@@ -34,7 +34,13 @@ Ele permite criar e gerenciar cardápios com fotos, preços, QR codes e temas pe
 
 ## Features
 
-**📱 Menu digital responsivo** — com QR code automático para cada cardápio**🧾 CRUD de pratos e categorias** — interface limpa e moderna**🖼️ Upload de imagens** — via Supabase Storage**🎨 Temas customizáveis** — personalize cores e identidade do restaurante**🔐 Autenticação com NextAuth** — login seguro para admin**📊 Dashboard administrativo** — gerencie tudo em um só lugar**🌍 Multi-idioma** — suporte inicial a português e inglês
+**📱 Menu digital responsivo** — com QR code automático para cada cardápio
+**🧾 CRUD de pratos e categorias** — interface limpa e moderna
+**🖼️ Upload de imagens** — via Supabase Storage
+**🎨 Temas customizáveis** — personalize cores e identidade do restaurante
+**🔐 Autenticação com NextAuth** — login seguro para admin
+**📊 Dashboard administrativo** — gerencie tudo em um só lugar
+**🌍 Multi-idioma** — suporte inicial a português e inglês
 
 > Próximas features: pedidos via WhatsApp, analytics de visualização, temas premium e integrações com pagamento.
 
